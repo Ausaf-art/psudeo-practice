@@ -1,0 +1,33 @@
+
+h3{
+    color: rgb(0, 255, 106);
+    
+    
+}
+h3:hover{
+    color: red;
+}
+
+input:focus{
+    color: blue;
+    padding: 25px;
+    outline-color: red;
+    border: none;
+    
+}
+a:visited{
+    color
+}
+li:last-child{
+    color: red;
+    
+}
+ 
+li:first-child{
+    background-color: brown;
+    
+}
+  li:nth-child(2n){
+    color: blue;
+  }
+
